@@ -1,0 +1,16 @@
+.container, .container-fluid {
+  border: 5px solid black;
+}
+
+.row {
+  border: 5px black;
+
+}
+
+.col-xs-6 {
+  border: 5px solid grey;
+}
+
+.template {
+  border: 10px solid black;
+}
